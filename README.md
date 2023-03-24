@@ -36,7 +36,8 @@ _Request body_:
 {
     "name": "John Doe",
     "email": "johndoe@example.com",
-    "password": "password"
+    "password": "password",
+    "address": "123 Main St."
 }
 ```
 
